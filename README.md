@@ -23,8 +23,7 @@ Esse projeto foi desenvolvido com:
 
 E com os recursos > Atomic Design e Block Element Modifier (BEM):
 
-<img src="./files/atomic-design.png" width="100%">
-<img src="./files/bem.svg" width="100%">
+<img src="./files/atomic-design.png" width="100%"><img src="./files/bem.svg" width="100%">
 
 # :art: Layout
 
