@@ -1,6 +1,31 @@
-# Arquitetura CSS com:
+<h1 align="center">
+    <img src="./files/logo.jpg" alt="" width="400">
+</h1>
 
-- Atomic Design
-- Block Element Modifier
+<p align="center">
+  :white_check_mark: <a href="https://andreadcsousa.github.io/alura_arquitetura_css/" target="_blank">Veja a página</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  :white_check_mark: <a href="https://www.alura.com.br/curso-online-arquitetura-css" target="_blank">Conheça o curso</a>
+</p>
 
-![Caption](https://files.cercomp.ufg.br/weby/up/342/o/em_construcao.jpg)
+# :computer: Projeto
+ 
+- Idealizador: Alura
+- Projeto: Formação Front-End
+- Lado da força: Front-End
+- Tipo: Arquitetura CSS
+- Etapa: Atomic Design e BEM
+
+# :rocket: Tecnologias
+
+Esse projeto foi desenvolvido com:
+
+<img src="./files/html.svg" width="100"><img src="./files/css.svg" width="100">
+
+E com os recursos > Atomic Design e Block Element Modifier (BEM):
+
+<img src="./files/atomic-design.png" width="100%">
+<img src="./files/bem.svg" width="100%">
+
+# :art: Layout
+
+<img src="./files/pagina.jpg" alt="" width="100%">
